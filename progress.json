@@ -52,5 +52,14 @@
       "There are no new grocery list items added to the shopping list."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768944463.356616,
+    "completed_at": 1768944466.179255,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
   }
 ]
